@@ -14,8 +14,7 @@ class HomepageScreen extends StatelessWidget {
               subtitle: 'Developer',
               color: Color(0xff0B3D2E),
             ),
-            const SizedBox(
-height: 10),
+            const SizedBox(height: 10),
             Text(
               'Photograpghy',
               style: TextStyle(fontSize: 22, color: Color(0xff0B3D2E)),
